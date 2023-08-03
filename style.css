@@ -10,6 +10,10 @@ main {
     background-color: white;
     border-radius: 10px;
     text-align: center;
+    padding: 10px;
+}
+nav {
+    margin: auto;
 }
 
 h1 {
@@ -18,4 +22,7 @@ h1 {
 
 iframe {
     align-items: center;
+}
+p {
+    text-align: justify;
 }
