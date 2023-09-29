@@ -42,3 +42,11 @@ iframe {
 p {
     text-align: justify;
 }
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style: none;
+}
