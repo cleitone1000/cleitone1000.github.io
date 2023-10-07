@@ -21,6 +21,13 @@ nav {
     margin: auto;
 }
 
+nav > a > img:hover {
+
+    background-color: blue;
+    margin: 10px;
+
+}
+
 #video {
    
     width: 75%vh;
