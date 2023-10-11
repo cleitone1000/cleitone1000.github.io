@@ -57,3 +57,15 @@ ul {
 ol {
     list-style: none;
 }
+
+#projetos > ul > li > a {
+    font-style: normal;
+    color: black;
+    list-style: none;
+    text-decoration: none;
+}
+
+#projetos > ul >li > a:hover {
+    color: red;
+    
+}
