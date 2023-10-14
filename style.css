@@ -69,11 +69,7 @@ ol {
     text-align: left;
 }
 
-#projetos > ul{
-    
-}
-
-#projetos > ul > li > a {
+#projetos > nav > a {
     font-style: normal;
     color: black;
     list-style: none;
@@ -86,7 +82,7 @@ ol {
     border-radius: 1em;
 }
 
-#projetos > ul >li > a:hover {
+#projetos > nav > a:hover {
     background-color: rgba(0, 0, 0, 0.466);
     color:rgb(9,113,179, 0.5);
     font-weight: bold;
