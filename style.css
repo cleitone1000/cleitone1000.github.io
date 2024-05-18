@@ -89,3 +89,7 @@ ol {
 
     
 }
+
+main > nav > a > img {
+    width: 1em;
+}
